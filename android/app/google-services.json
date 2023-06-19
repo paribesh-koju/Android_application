@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182368786465",
+    "project_id": "food-delivery-5e9fe",
+    "storage_bucket": "food-delivery-5e9fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182368786465:android:7186318411c9b72c35ab60",
+        "android_client_info": {
+          "package_name": "com.example.anna_bazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182368786465-dp9kskqtedkeimcoa06l595905hfc5qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsD5ev5o0uBjFtrfGfrfzJfPykphzy9UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182368786465-dp9kskqtedkeimcoa06l595905hfc5qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
